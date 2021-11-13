@@ -12,7 +12,7 @@ import java.io.IOException;
 public class DivSevlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
-        String path = "/WEB-INF/divide.jsp";
+        String path = "/divide.jsp";
         RequestDispatcher rd = req.getRequestDispatcher(path);
         rd.forward(req,res);
     }
