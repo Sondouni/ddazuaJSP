@@ -1,4 +1,4 @@
-package javaplus.designPattern;
+package javaplus.designPattern.creational;
 
 public class SingleTon { // 기본 싱글톤 패턴
     private static SingleTon singleTon;

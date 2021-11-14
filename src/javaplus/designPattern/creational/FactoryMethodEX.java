@@ -1,4 +1,4 @@
-package javaplus.designPattern;
+package javaplus.designPattern.creational;
 
 public class FactoryMethodEX {
     public static void main(String[] args) {

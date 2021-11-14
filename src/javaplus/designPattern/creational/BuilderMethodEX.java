@@ -1,4 +1,4 @@
-package javaplus.designPattern;
+package javaplus.designPattern.creational;
 
 public class BuilderMethodEX {
     public static void main(String[] args) {
