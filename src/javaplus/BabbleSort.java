@@ -13,5 +13,9 @@ public class BabbleSort {
                 }
             }
         }
+        for (int x : ar){
+            System.out.println(x);
+
+        }
     }
 }
