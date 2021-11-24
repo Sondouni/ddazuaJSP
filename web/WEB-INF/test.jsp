@@ -12,5 +12,6 @@
         var asdsd = 1;
         console.log(); // -> 콘솔에 ()안에값을 출력
         console.clear(); // 콘솔 초기화화    </script>
+
 </body>
 </html>

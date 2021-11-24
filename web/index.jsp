@@ -17,5 +17,8 @@
         <p>서블릿으로 이동</p>
         <button>이동</button>
       </form>
+      <footer>
+          ${5+9}
+      </footer>
   </body>
 </html>
