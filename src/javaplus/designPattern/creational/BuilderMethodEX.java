@@ -2,9 +2,13 @@ package javaplus.designPattern.creational;
 
 public class BuilderMethodEX {
     public static void main(String[] args) {
-        Rect1 rect = new Rect1.Builder(200,100)
+        Rect1 rect = new Rect1.Builder(200,100) //asdads
                 .margin(5)
                 .padding(10)
+                .build();
+
+        rect = new Rect1.Builder(111,111) //aaaaaa
+                .margin(123)
                 .build();
     }
 }

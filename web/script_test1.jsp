@@ -14,5 +14,16 @@
     <%! int count = 3;%>
     <% count =4; %>
     <%= count%>
+    <script>
+        const superman ={
+            name:'clack',
+            age:30,
+        }
+        superman.hiarColor = 'black';
+        superman['hobby']='football';
+        console.log(superman)
+
+        delete superman.name;
+    </script>
 </body>
 </html>
